@@ -15,15 +15,15 @@
 #player #list{ right:5px; }
 
 #player #seeker{ right:320px; }
-#player #seekerBase{ border-color:#084670; }
-#player #seekerBuffered{ background-color:#b0dfff; }
-#player #seekerSliderBase{ background-color:#084670; }
+#player #seekerBase{ border-color:#bea28a; }
+#player #seekerBuffered{ background-color:#fff; }
+#player #seekerSliderBase{ background-color:#fff; }
 
 #player #volume{ width:70px; right:33px; }
 #player #volumeSlider{ width:14px; background:url(sizerAndVol.png); }
 
-#playlist,#playlist .module,#playlist h3{ border-color:#03385c; color:#084670; }
-#playlist h3{ background-color: #084670; color:#FFF;}
+#playlist,#playlist .module,#playlist h3{ border-color:#bea28a; color:#bea28a; }
+#playlist h3{ background-color: #fff; color:#FFF;}
 #playlist .even{background-color:#FFF;}
-#playlist .odd{ background-color:#b0dfff;}
-#playlist .focus{ background-color:#084670; color:#FFF;}
+#playlist .odd{ background-color:#fff;}
+#playlist .focus{ background-color:#fff; color:#FFF;}
